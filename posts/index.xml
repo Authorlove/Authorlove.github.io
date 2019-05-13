@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pallel World</title>
+    <link>https://authorlove.github.io/posts/</link>
+    <description>Recent content in Posts on Pallel World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 May 2019 14:45:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://authorlove.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Parallel World</title>
+      <link>https://authorlove.github.io/posts/why-parallel-world/</link>
+      <pubDate>Mon, 13 May 2019 14:45:25 +0800</pubDate>
+      
+      <guid>https://authorlove.github.io/posts/why-parallel-world/</guid>
+      <description>为什么要写博客？ 因为人不可能同时踏入同一条河流，当踏过一条河流时，要尽情的去体会记录这个moment，这个平行世界。</description>
+    </item>
+    
+  </channel>
+</rss>
